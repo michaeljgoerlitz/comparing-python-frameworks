@@ -1,0 +1,3 @@
+flask-app/venv/
+flask-app/instance/
+flask-app/__pycache__/
