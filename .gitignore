@@ -4,3 +4,8 @@ flask-app/__pycache__/
 fastapi-app/venv/
 fastapi-app/__pycache__/
 fastapi-app/db.sqlite
+django-app/todoapp/todoapp/__pycache__/
+django-app/todoapp/todolist/__pycache__/
+django-app/todoapp/todolist/migrations/
+django-app/todoapp/db.sqlite3
+django-app/venv/
